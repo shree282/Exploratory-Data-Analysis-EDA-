@@ -19,11 +19,6 @@ This project performs an **Exploratory Data Analysis (EDA)** on the Titanic data
 - Correlation analysis showed fare and class were important survival factors.
 
 ## Files
-- `titanic_eda.ipynb` – Jupyter Notebook with code and visualizations.
+- `titanic_eda(1).ipynb` – Jupyter Notebook with code and visualizations.
 - `titanic_eda_findings.pdf` – PDF summary of findings.
-- `README.md` – Project overview (this file).
 
-## Requirements
-```bash
-pip install pandas numpy matplotlib seaborn
-```
